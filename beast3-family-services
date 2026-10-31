@@ -1,0 +1,29 @@
+beast3-family-services/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── charter.md
+│   ├── governance.md
+│   ├── policies.md
+│   └── family-framework.md
+│
+├── src/
+│   ├── core/
+│   │   ├── FamilyRegistry.ts
+│   │   ├── CaseManagement.ts
+│   │   ├── ChildcareServices.ts
+│   │   ├── SupportPrograms.ts
+│   │   └── FamilyReport.ts
+│   │
+│   ├── api/
+│   │   └── family.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
